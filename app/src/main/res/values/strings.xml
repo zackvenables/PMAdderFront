@@ -2,4 +2,5 @@
     <string name="app_name">PMAdderFront</string>
     <string name="title_add">Add</string>
     <string name="title_info">Info</string>
+    <string name="search_default">Search Movie Title</string>
 </resources>
